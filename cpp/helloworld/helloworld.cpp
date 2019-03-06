@@ -1,7 +1,7 @@
 /*
 Creation:   0800,20190306
 Name(s):  Grant Mulholland,
-Email(s): grantlmul@gmail.com, 
+Email(s): grantlmul@gmail.com,
 */
 #include <iostream>
 
@@ -13,5 +13,6 @@ int main() {
   //writes string to cout
   std::cout<<"Hello, World!";
   //say the program closed nicely
+  cout<<"\n";
   return 0;
 }

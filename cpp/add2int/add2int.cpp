@@ -21,6 +21,6 @@ int main(){
 
   //write sum to cout
   cout << firstNumber << "+" << secondNumber << "=" << sumNumber;
-
+  cout <<"\n";
   return 0;
 }
