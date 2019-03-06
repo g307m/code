@@ -1,6 +1,6 @@
 # Code
 
-My personal code learning repo
+My personal code learning repo for some nerds to contribute to if they want. (you!)
 
 ## Using code
 
