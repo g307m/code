@@ -6,6 +6,7 @@
 *.exe
 *.o
 *.so
+*.out
 
 # Packages #
 ############
@@ -39,4 +40,3 @@ Thumbs.db
 # Specific files #
 ##################
 compiling_error.txt
-
